@@ -1,0 +1,7 @@
+{
+    "num_mip_levels" : 4,
+    "padding" : 8,
+    "resource_pack_name" : "pack.name",
+    "texture_data" : {
+    }
+}  
